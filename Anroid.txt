@@ -1,0 +1,24 @@
+lifecycle : multiple state
+system tray
+resume: kaam hune
+configure your project 
+package name: com.company name or your name.your application name(id of application) and for for notifications:
+
+
+my app
+src>main(main code)
+res>url
+drawable- images and background resources(basic html files) custom background
+
+mipmap- app icon
+
+values: stores similaar values used in app
+color : 
+string : static string(application project vari use garna pauxa)
+style: for all the layout
+parent:to call all the header
+
+emulator detected
+nexus 5X API
+
+when build fail: file> sync with gradle
